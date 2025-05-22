@@ -1,1 +1,1 @@
-# fire-evacuation-simulator
+# fire-evacuation-algorithm
